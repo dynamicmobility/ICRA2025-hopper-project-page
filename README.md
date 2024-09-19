@@ -1,3 +1,11 @@
+# Hopper Project Page
+
+To preview the site, run the following in a terminal (need to be in the directory of the repo):
+```
+python3 -m http.server
+```
+
+------
 # Academic Project Page Template
 This is an academic paper project page template.
 
